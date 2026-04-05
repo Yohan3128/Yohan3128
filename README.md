@@ -121,12 +121,11 @@ const yohan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yohan3128&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Yohan3128&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohan3128&theme=tokyonight" />
 
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yohan3128&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=10" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohan3128&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohan3128&theme=tokyonight" />
+<img width="32%" src="https://streak-stats.demolab.com/?user=Yohan3128&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -137,7 +136,7 @@ const yohan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&margin-w=8&margin-h=8&column=4&row=2" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&column=4&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -215,13 +214,11 @@ const yohan = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Yohan3128&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" onerror="this.style.display='none'"/>
+[![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohan3128&theme=tokyonight&utcOffset=5.5)](https://github.com/Yohan3128?tab=repositories)
 
 <br/>
 
-[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Yohan3128&repo=Yohan3128&theme=tokyonight&hide_border=true)](https://github.com/Yohan3128)
-
-> 📌 **Tip:** Replace `repo=Yohan3128` above with your actual repository names to pin them here!
+[![Profile](https://img.shields.io/badge/View%20All%20Repos-%237c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yohan3128?tab=repositories)
 
 </div>
 
