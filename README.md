@@ -122,7 +122,7 @@ const yohan = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yohan3128&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Yohan3128&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Yohan3128&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -137,7 +137,7 @@ const yohan = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&margin-w=8&margin-h=8&column=4&row=2" />
 
 </div>
 
@@ -157,13 +157,43 @@ const yohan = {
 <!-- ===== SNAKE ANIMATION ===== -->
 ## 🐍 Watch My Contributions Get Eaten
 
+> ⚙️ **Setup required:** Add the workflow below to enable the snake animation.
+> Create `.github/workflows/snake.yml` in your profile repo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   snake:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: Yohan3128
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake.svg" />
+  <img alt="Snake animation — run the workflow to activate" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
 </picture>
+
+**Until then — here's my contribution heatmap 🔥**
+
+<img src="https://ghchart.rshah.org/7c3aed/Yohan3128" alt="Yohan's Contribution Chart" />
 
 </div>
 
@@ -185,7 +215,13 @@ const yohan = {
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Yohan3128&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Yohan3128&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" onerror="this.style.display='none'"/>
+
+<br/>
+
+[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Yohan3128&repo=Yohan3128&theme=tokyonight&hide_border=true)](https://github.com/Yohan3128)
+
+> 📌 **Tip:** Replace `repo=Yohan3128` above with your actual repository names to pin them here!
 
 </div>
 
