@@ -22,9 +22,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Yohan3128&theme=algolia&show_icons=true&hide_border=false&count_private=true)
   <br></br>
-![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=algolia&hide_border=false)
+![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yohan3128&theme=algolia&hide_border=false)
 </td>
 
 <td width="50%" align="center">
