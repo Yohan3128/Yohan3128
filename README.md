@@ -22,14 +22,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Yohan3128&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+![Yohan3128's Stats](https://github-readme-stats.vercel.app/api?username=Yohan3128&theme=algolia&show_icons=true&hide_border=false&count_private=true)
   <br></br>
-![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yohan3128&theme=algolia&hide_border=false)
+![Yohan3128's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yohan3128&theme=algolia&hide_border=false)
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yohan3128&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
