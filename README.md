@@ -14,6 +14,26 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+ <h2>📊 My Statistics: </h2>
+ <!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+![Sahan-Kaushalya's Stats](https://github-readme-stats.vercel.app/api?username=Sahan-Kaushalya&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+  <br></br>
+![Sahan-Kaushalya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahan-Kaushalya&theme=algolia&hide_border=false)
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Sahan-Kaushalya&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
