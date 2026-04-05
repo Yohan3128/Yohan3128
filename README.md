@@ -18,24 +18,36 @@
 
 ---
 
+ 
 <!-- ===== ABOUT ME ===== -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-
 ## 🧑‍💻 About Me
-
+ 
+<table align="center">
+<tr>
+<td valign="top" width="60%">
+ 
 ```typescript
 const yohan = {
-  name:       "Yohan Silva",
-  location:   "Sri Lanka 🇱🇰",
-  role:       "Full Stack Developer & UI/UX Designer",
-  workingOn:  "Next-gen web & mobile apps",
-  learning:   ["Cloud Architecture", "AI/ML Integration"],
-  collab:     "Open Source & Innovative Projects",
-  funFact:    "I debug with console.log and no regrets 😄",
-  contact:    "Yohansilva560@gmail.com"
+  name:      "Yohan Silva",
+  location:  "Sri Lanka 🇱🇰",
+  role:      "Full Stack Developer & UI/UX Designer",
+  workingOn: "Next-gen web & mobile apps",
+  learning:  ["Cloud Architecture", "AI/ML Integration"],
+  collab:    "Open Source & Innovative Projects",
+  funFact:   "I debug with console.log and no regrets 😄",
+  contact:   "Yohansilva560@gmail.com"
 };
 ```
-
+ 
+</td>
+<td valign="top" width="40%" align="center">
+ 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+ 
+</td>
+</tr>
+</table>
+ 
 <br clear="right"/>
 
 ---
@@ -121,26 +133,15 @@ const yohan = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohan3128&theme=tokyonight" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohan3128&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yohan3128&theme=tokyonight" />
-<img width="32%" src="https://streak-stats.demolab.com/?user=Yohan3128&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- ===== TROPHIES ===== -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yohan3128&theme=tokyonight&column=4&margin-w=10&margin-h=10" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yohan3128&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohan3128&theme=tokyonight&utcOffset=5.5" />
+ 
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yohan3128&theme=tokyonight" />
 
 </div>
 
 ---
+
 
 <!-- ===== ACTIVITY GRAPH ===== -->
 ## 📈 Contribution Graph
@@ -152,50 +153,19 @@ const yohan = {
 </div>
 
 ---
-
 <!-- ===== SNAKE ANIMATION ===== -->
 ## 🐍 Watch My Contributions Get Eaten
-
-> ⚙️ **Setup required:** Add the workflow below to enable the snake animation.
-> Create `.github/workflows/snake.yml` in your profile repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: Yohan3128
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
+ 
 <div align="center">
-
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake.svg" />
-  <img alt="Snake animation — run the workflow to activate" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
 </picture>
-
-**Until then — here's my contribution heatmap 🔥**
-
-<img src="https://ghchart.rshah.org/7c3aed/Yohan3128" alt="Yohan's Contribution Chart" />
-
+ 
 </div>
-
+ 
 ---
 
 <!-- ===== QUOTE ===== -->
@@ -209,20 +179,6 @@ const yohan = {
 
 ---
 
-<!-- ===== TOP REPOS ===== -->
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-[![github-profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yohan3128&theme=tokyonight&utcOffset=5.5)](https://github.com/Yohan3128?tab=repositories)
-
-<br/>
-
-[![Profile](https://img.shields.io/badge/View%20All%20Repos-%237c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yohan3128?tab=repositories)
-
-</div>
-
----
 
 <!-- ===== FOOTER ===== -->
 <div align="center">
