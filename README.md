@@ -159,9 +159,9 @@ const yohan = {
 <div align="center">
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-light.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yohan3128/Yohan3128/output/github-snake-light.svg" />
 </picture>
  
 </div>
